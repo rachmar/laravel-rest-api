@@ -1,4 +1,5 @@
-## RM Backend
+## Laravel Rest API 
+This project demonstrates my ability to design, develop, and maintain RESTful APIs with a focus on security, performance, and usability. It highlights my expertise in Laravel, a popular PHP framework for web development, and my commitment to best practices in API development.
 
 
 ## API Documentation
@@ -8,7 +9,6 @@
 
 - PHP 8.1 or higher
 - Composer 
-- Node & NPM
 - Git
 
 ## Installation
